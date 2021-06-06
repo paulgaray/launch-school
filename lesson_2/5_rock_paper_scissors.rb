@@ -5,7 +5,7 @@ def prompt(message)
 end
 
 def win?(player1, player2)
-  (player1 == "rock" && player2 == "paper") ||
+  (player1 == "paper" && player2 == "rock") ||
     (player1 == "scissors" && player2 == "paper") ||
     (player1 == "rock" && player2 == "scissors")
 end

@@ -1,0 +1,9 @@
+# Message prompts for 3_calculator_bonus_features.rb
+
+welcome: "Welcome to Calculator! Enter your name."
+valid_name: "Type a valid name"
+first_number: "What's the first number?"
+second_number: "What's the second number?"
+invalid_number: "Not a valid number. Try again."
+invalid_operator: "Must choose 1, 2, 3, or 4."
+goodbye: "Thank you. Goodbye!"
